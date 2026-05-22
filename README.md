@@ -17,7 +17,7 @@ I’m always open to connecting with professionals in data analytics, business i
 ## Projects 
 
 ### Customer Churn and Retention Strategies 
-#### Code: 
+#### Code: https://github.com/jodywenhui/portfolio/blob/main/CapstoneProject_Jody.ipynb 
 Goal: To understand why customers leave and recommend timeframe to start interventions
 
 Description: The project focused on analyzing customer churn in a telecom subscription dataset. The objective was to identify patterns in customer behavior and build a predictive model that estimates churn risk before customers cancel their service.
